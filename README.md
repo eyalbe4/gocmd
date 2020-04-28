@@ -6,7 +6,7 @@
 
 ## General
 
-![Connect](a.mp4)
+![Connect](a.gif)
 
 *gocmd* is a library which provides Go APIs to performs actions on JFrog Artifactory from your Go application related to working with Go packages.
 The project is still relatively new, and its APIs may therefore change frequently between releases.
